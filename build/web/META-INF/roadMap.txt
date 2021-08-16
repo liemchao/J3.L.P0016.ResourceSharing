@@ -1,0 +1,3 @@
+loginMail = LoginMailServlet
+login = LoginServlet
+loginHTML = login.html
